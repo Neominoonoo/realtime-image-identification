@@ -1,0 +1,53 @@
+  .heading
+  {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(255, 255, 255);
+    background-color: darkblue;
+    color: white;
+  }
+  .heading_div
+  {
+    float: none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px rgb(255, 255, 255);
+    color: darkblue;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    background-color: darkblue;
+    color: white;
+  }
+  .result_para_tag
+  {
+    background-color: darkblue;
+    box-shadow:5px 5px 5px rgb(255, 255, 255);
+    font-size: 20px;
+    color: white;
+  }
+  .result_para_tag span{
+    white-space: pre-line;
+
+  }
+  canvas{
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: darkblue;
+    
+  }
+  .copy_right_footer{
+    color: white;
+    background-color: rgba(0, 0, 139, 0.703);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 30px;
+    text-align: center;
+    
+  }
+ 
